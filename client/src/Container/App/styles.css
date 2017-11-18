@@ -1,0 +1,10 @@
+.test {
+    color: teal;
+    text-align: center;
+    padding: 15px 20px;
+    border: 2px solid #777;
+}
+
+.test-img {
+    width: 100%;
+}

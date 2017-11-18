@@ -1,1 +1,1 @@
-# discoveryPaySystem
+# Discovery Pay System
